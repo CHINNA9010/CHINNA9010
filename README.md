@@ -12,7 +12,7 @@ I'm an AWS and DevOps Engineer with hands-on experience in designing, deploying,
 
 🚀 Skills & Technologies
 
-☁️ Cloud (AWS):**  
+☁️ Cloud (AWS):
 EC2, S3, RDS, Lambda, DynamoDB, EBS, EFS, CloudFront, Route 53, IAM, VPC, Elastic Beanstalk, CloudWatch, CloudTrail, CodeCommit, CodeBuild, CodeDeploy, CodePipeline, SQS, SNS, EKS, ECS, Secrets Manager, API Gateway, CloudFormation
 
 🔧 DevOps & Tools: 
