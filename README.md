@@ -1,4 +1,4 @@
-👋 Hello, I'm Chinna Visanagiri!
+👋 Hello, I'm Chinnam Naidu Visanagiri!
 
 🚀 AWS & DevOps Engineer | 🧰 Automation Specialist | ☁️ Cloud Enthusiast  
 🔍 Passionate about building scalable cloud infrastructure and implementing end-to-end CI/CD pipelines with security in mind.
@@ -49,16 +49,10 @@ A comprehensive reference guide for Linux commands, scripts, and troubleshooting
 
 ---
 
-📈 GitHub Stats
-
-![Chinna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHINNA9010&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CHINNA9010&layout=compact&theme=tokyonight)
-
----
-
 📫 Connect With Me
 
 - 📧 Email: chinnavisanagiri353@gmail.com
+- 📱 Phone : 9010632128
 ---
 
 Thanks for stopping by! Let’s build scalable, automated, and secure cloud systems together. 🚀
