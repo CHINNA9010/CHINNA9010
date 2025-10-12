@@ -1,12 +1,12 @@
 👋 Hello, I'm Chinnam Naidu Visanagiri!
 
-🚀 AWS & DevOps Engineer | 🧰 Automation Specialist | ☁️ Cloud Enthusiast  
+🚀 Application Support Engineer | AWS & DevOps | 🧰 Automation Specialist | ☁️ Cloud Enthusiast  
 🔍 Passionate about building scalable cloud infrastructure and implementing end-to-end CI/CD pipelines with security in mind.
 
 ---
 💼 About Me
 
-I'm an AWS and DevOps Engineer with hands-on experience in designing, deploying, and managing modern cloud infrastructure using DevOps best practices. I specialize in building production-grade deployments using Kubernetes, Terraform, and automation pipelines on AWS.
+I'm an Application Support Engineer with hands-on experience in designing, deploying, and managing modern cloud infrastructure using DevOps best practices. I specialize in building production-grade deployments using Kubernetes, Terraform, and automation pipelines on AWS.
 
 ---
 
