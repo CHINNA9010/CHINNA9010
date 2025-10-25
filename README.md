@@ -18,6 +18,8 @@ EC2, S3, RDS, Lambda, DynamoDB, EBS, EFS, CloudFront, Route 53, IAM, VPC, Elasti
 🔧 DevOps & Tools: 
 Git, Docker, Jenkins, Ansible, Kubernetes, Terraform.
 
+DataBase:
+MS SQL-Server, PL/SQL, MangoDB, RDS.
 ---
 📊 Monitoring & Logging:  
 Prometheus, Grafana, CloudWatch
@@ -51,7 +53,7 @@ A comprehensive reference guide for Linux commands, scripts, and troubleshooting
 
 📫 Connect With Me
 
-- 📧 Email: chinnavisanagiri353@gmail.com
+- 📧 Email: chinna3cv@gmail.com
 - 📱 Phone : 9010632128
 ---
 
